@@ -62,10 +62,11 @@ Score
 A numeric value that translates into a reputation score.
 
 | Tables        | Are           |
-| ------------- |:-------------:|
+| ------------- |:------------- |
 | SCTS		| The number of blockchain transactions the user has registered with SafeCommerce under his/her SafeCommerce primary account.| 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |    
+| SCAA	        | SafeCommerce account age. Initiated with first transaction.      |   
+| Claims	| The number of claims made by the account holder against his/her SafeCommerce account.      |    
+| Score		| A numeric value that translates into a reputation score.      |    
 
 
 		Standalone mode:
