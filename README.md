@@ -46,6 +46,7 @@ TODO:  Add diagram to describe the above transactions.
 
 In the above example, the 6% of the Declared Value (0.3 ETH) that was deposited by the participants, remains in the SafeCommerce platform in the participant’s account as a future reserve balance. This reserve balance is a critical component for building a reputation score for the account holder. The score is calculated as follows:
  
+![alt text](https://drive.google.com/file/d/1B836mJX881eqVQloJnaWa7volYWo-bzW/view?usp=sharing "Formula")
 
 
 
