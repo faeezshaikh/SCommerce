@@ -79,10 +79,10 @@ The following depicts the various transaction scenarios between two participants
 2. She signs in with any of the popular Web Identity Providers (Google, Amazon, Facebook, Github)
 3. Once logged in, she creates a new ‘Agreement’ inside the app.
 4. For creating a new Agreement, Alice has to enter the following details:
- 	+Account address (public key) of Bob (the party with which Alice is entering into an agreement)
-	+The ‘Declared Value’ (the escrow amount)
-	+The agreement deadline date
-	+The funding deadline (date)
+ 	*Account address (public key) of Bob (the party with which Alice is entering into an agreement)
+	*The ‘Declared Value’ (the escrow amount)
+	*The agreement deadline date
+	*The funding deadline (date)
 	
 	
 ## SafeCommerce Plans and Loyalty Program:
@@ -99,4 +99,4 @@ Lorem ipsum dolor sit amet, conse`78actetuer adipiscing elit, sed diam nonummy n
 Consectetur adipiscing elit
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 
-[\
+
