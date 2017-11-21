@@ -1,9 +1,4 @@
 # SCommerce
-
-
-
-
-SafeCommerce
 A Blockchain-Based Decentralized Trustless Reputation building Escrow Protocol.
 November 15, 2017
 
@@ -11,17 +6,19 @@ November 15, 2017
 
 
 
-Overview
+## Overview
 SafeCommerce is a blockchain-based decentralized escrow protocol that aids and incentivizes blockchain transactors and Decentralized app (Dapp) developers to safely transact and leverage their transactions to build reputation on the blockchain. It eliminates the need for developers to build complex trust enabling payment settlement systems into their Dapps.
 
-Problem
+## Problem
+
 Pseudonymity Issues: The pseudonymous nature of the blockchain while advantageous in many respects also poses several limitations and barriers in transacting business on the blockchain. The current ecosystem requires blind trust in one or both of the transaction participants. These parties possess no known identity other than their respective blockchain addresses (hashes). While this may be advantageous in some cases, the lack of any information about the account holder is a huge deterrent in doing business on the blockchain. In its current nascency the blockchain lacks a completely autonomous decentralized reputation system, that can provide assurance while still retaining anonymity on the blockchain.
 Complex payment settlement systems:  In absence of such a decentralized service, Dapp developers are forced to code complex payment settlement solutions into their Dapps. In a majority of cases, such payment settlement solutions are an evil necessity for these Dapps that take away precious development time which could be otherwise devoted to solving real world business problems by the developers. In reality, since the advent of blockchain protocols like Ethereum, developers of decentralized apps (Dapps) have always struggled to create or integrate some sort of online service that can be used to manage trusted commerce between two parties.
 Let’s say that Kathy and Bob want to transact business with each other on the Ethereum blockchain. Kathy wants to remotely sell Bob her camera for 5 ETH. Bob needs the camera to be as good as described by Kathy, and Kathy needs to be sure she gets paid as agreed. Thus, no one wants to make the first move.
 In the current landscape, the above transaction may only be possible through custom Dapps. Although the Dapps in this case may enable peer to peer trading, the payment settlement has to occur through the Dapp. In essence, the payment settlement is not decentralized and the users have to trust the Dapp to settle their debts. Likewise, if Kathy wishes to purchase an item of jewelry she likes through another Dapp, she will have to repeat the payment through the new Dapp and trust this new Dapp to settle the payments on the blockchain. Moreover, the Dapps provide no incentive or reward for her track record of settling payments on the blockchain on time and as promised.
 The Dapp developers are forced to write custom payment settlement modules for these Dapps, which may not be the critical feature of the Dapp. The Dapp may be a commercial shopping platform like amazon.com focused on enabling peer to peer merchandise trading.
 
-Solution
+## Solution
+
 SafeCommerce is a global open platform that provides a reputation and loyalty based escrow service. It is a transparent and audit-friendly safe protocol that leverages the full potential of the Ethereum decentralized consensus ecosystem. 
 In its standalone mode, the SafeCommerce platform can be used by individual traders to safely conduct peer to peer trading in a safe and guaranteed manner while still retaining anonymity on the blockchain. The platform’s APIs can be used by other Dapp developers to to facilitate commerce in their decentralized applications. Developers no longer have to reinvent the wheel every time by building a payment settlement system into their Dapps. The SafeCommerce protocol abstracts the intricacies of complex debt settlement and Dapp developers can simply leverage the protocol by invoking APIs for the platform.
 The SafeCommerce platform provides guaranteed assurance of debt settlement by allowing users to build reputation on the blockchain while retaining anonymity.
