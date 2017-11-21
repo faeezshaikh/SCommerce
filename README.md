@@ -73,20 +73,17 @@ A numeric value that translates into a reputation score.
 
 ## Standalone mode:
 
-The following depicts the various transaction scenarios between two participants Kathy and Bob.
+The following depicts the various transaction scenarios between two participants Kathy (seller) and Bob (buyer).
 
 1. Kathy downloads the free SafeCommerce mobile app from the appStore (iOS or Android)
 2. She signs in with any of the popular Web Identity Providers (Google, Amazon, Facebook, Github)
 3. Once logged in, she creates a new ‘Agreement’ inside the app.
-4. For creating a new Agreement, Alice has to enter the following details:
-   *Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
-   *Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
-   *Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
-⋅⋅⋅⋅* Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
- 	
-	*The ‘Declared Value’ (the escrow amount)
-	*The agreement deadline date
-	*The funding deadline (date)
+4. For creating a new Agreement, Kathy has to enter the following details:
+  1. Account address (public key) of Bob (the party with which Kathy is entering into an agreement). 
+  2. The ‘Declared Value’ (the escrow amount)
+  3. The agreement deadline date
+  4. The funding deadline (date)
+5. Kathy then enters the escrow amount in the app, and sends the amount to the escrow (SafeCommerce contract)
 	
 	
 ## SafeCommerce Plans and Loyalty Program:
