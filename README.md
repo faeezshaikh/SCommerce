@@ -69,18 +69,25 @@ A numeric value that translates into a reputation score.
 | Score		| A numeric value that translates into a reputation score.      |    
 
 
-		Standalone mode:
-Alice downloads the free SafeCommerce mobile app from the appStore (iOS or Android)
-She signs in with any of the popular Web Identity Providers (Google, Amazon, Facebook, Github)
-Once logged in, she creates a new ‘Agreement’ inside the app.
-For creating a new Agreement, Alice has to enter the following details:
-Account address (public key) of Bob (the party with which Alice is entering into an agreement)
-The ‘Declared Value’ (the escrow amount)
-The agreement deadline date
-The funding deadline (date)
-		SafeCommerce Plans and Loyalty Program:
+## Standalone mode:
 
-Monetization
+The following depicts the various transaction scenarios between two participants Kathy and Bob.
+
+1 ) Kathy downloads the free SafeCommerce mobile app from the appStore (iOS or Android)
+2) She signs in with any of the popular Web Identity Providers (Google, Amazon, Facebook, Github)
+3) Once logged in, she creates a new ‘Agreement’ inside the app.
+4) For creating a new Agreement, Alice has to enter the following details:
+	* Account address (public key) of Bob (the party with which Alice is entering into an agreement)
+	* The ‘Declared Value’ (the escrow amount)
+	* The agreement deadline date
+	* The funding deadline (date)
+	
+	
+## SafeCommerce Plans and Loyalty Program:
+TBD
+
+### Monetization
+TBD
 		TREX Tokens:
 Milestones
 Lorem ipsum
