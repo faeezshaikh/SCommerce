@@ -134,12 +134,5 @@ contract Escrow {
 }
 
 ```
-Milestones
-Lorem ipsum
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-Dolor sit amet
-Lorem ipsum dolor sit amet, conse`78actetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-Consectetur adipiscing elit
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 
 
