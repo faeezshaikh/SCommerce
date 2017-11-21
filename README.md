@@ -50,6 +50,7 @@ In the above example, the 6% of the Declared Value (0.3 ETH) that was deposited 
 
 
 
+
 SCTS
 The number of blockchain transactions
  accounts (addresses) the user has registered with SafeCommerce under his/her SafeCommerce primary account.
@@ -59,6 +60,15 @@ Claims
 The number of claims made by the account holder against his/her SafeCommerce account.
 Score
 A numeric value that translates into a reputation score.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| SCTS		| The number of blockchain transactions
+ the user has registered with SafeCommerce under his/her SafeCommerce primary account.
+ | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 		Standalone mode:
 Alice downloads the free SafeCommerce mobile app from the appStore (iOS or Android)
