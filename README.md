@@ -84,6 +84,8 @@ The following depicts the various transaction scenarios between two participants
      - The agreement deadline date
      - The funding deadline (date)
 5. Kathy then enters the escrow amount in the app, and sends the amount to the escrow (SafeCommerce contract)
+6. If Bob doesn't deposit within the funding deadline date, Kathy's amount will be disbursed, and her account will accumulate point for initiating a new agreement.
+7. After Bob deposits within the funding deadline, 
 	
 	
 ## SafeCommerce Plans and Loyalty Program:
