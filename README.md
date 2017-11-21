@@ -17,7 +17,9 @@ SafeCommerce is a blockchain-based decentralized escrow protocol that aids and i
 
 
 Let’s say that Kathy and Bob want to transact business with each other on the Ethereum blockchain. Kathy wants to remotely sell Bob her camera for 5 ETH. Bob needs the camera to be as good as described by Kathy, and Kathy needs to be sure she gets paid as agreed. Thus, no one wants to make the first move.
+
 In the current landscape, the above transaction may only be possible through custom Dapps. Although the Dapps in this case may enable peer to peer trading, the payment settlement has to occur through the Dapp. In essence, the payment settlement is not decentralized and the users have to trust the Dapp to settle their debts. Likewise, if Kathy wishes to purchase an item of jewelry she likes through another Dapp, she will have to repeat the payment through the new Dapp and trust this new Dapp to settle the payments on the blockchain. Moreover, the Dapps provide no incentive or reward for her track record of settling payments on the blockchain on time and as promised.
+
 The Dapp developers are forced to write custom payment settlement modules for these Dapps, which may not be the critical feature of the Dapp. The Dapp may be a commercial shopping platform like amazon.com focused on enabling peer to peer merchandise trading.
 
 ## Solution
@@ -77,10 +79,10 @@ The following depicts the various transaction scenarios between two participants
 2. She signs in with any of the popular Web Identity Providers (Google, Amazon, Facebook, Github)
 3. Once logged in, she creates a new ‘Agreement’ inside the app.
 4. For creating a new Agreement, Alice has to enter the following details:
- ... *Account address (public key) of Bob (the party with which Alice is entering into an agreement)
- ... *The ‘Declared Value’ (the escrow amount)
- ... * The agreement deadline date
- ... *The funding deadline (date)
+ 	+Account address (public key) of Bob (the party with which Alice is entering into an agreement)
+	+The ‘Declared Value’ (the escrow amount)
+	+The agreement deadline date
+	+The funding deadline (date)
 	
 	
 ## SafeCommerce Plans and Loyalty Program:
