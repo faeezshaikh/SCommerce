@@ -23,16 +23,26 @@ The Dapp developers are forced to write custom payment settlement modules for th
 ## Solution
 
 SafeCommerce is a global open platform that provides a reputation and loyalty based escrow service. It is a transparent and audit-friendly safe protocol that leverages the full potential of the Ethereum decentralized consensus ecosystem. 
+
 In its standalone mode, the SafeCommerce platform can be used by individual traders to safely conduct peer to peer trading in a safe and guaranteed manner while still retaining anonymity on the blockchain. The platform’s APIs can be used by other Dapp developers to to facilitate commerce in their decentralized applications. Developers no longer have to reinvent the wheel every time by building a payment settlement system into their Dapps. The SafeCommerce protocol abstracts the intricacies of complex debt settlement and Dapp developers can simply leverage the protocol by invoking APIs for the platform.
+
 The SafeCommerce platform provides guaranteed assurance of debt settlement by allowing users to build reputation on the blockchain while retaining anonymity.
-How it Works
+
+
+## How it Works
+
 Going back to the above example,  with SafeCommerce, Kathy and Bob’s account both escrow an amount of value (an agreed upon “Declared Value” aka DV) that will be used both as a custodian for the transaction and as a payment for Kathy’s Camera. 
+
 So, both Kathy and Bob will escrow 5 ETH + 0.3 ETH (6% of Declared value) + 0.05 ETH (1% of Declared value) for a total of 5.35 ETH into the SafeCommerce platform. This process makes use of our “multi-sig” digital smart contracts, this means the funds can only be unlocked if both Kathy and Bob agree that the terms were completed.
+
 Once the SafeCommerce transaction has been funded and locked by both parties, Kathy will provide/ship the camera to Bob. Upon receipt Bob checks that it looks as described and that it works fine. If it meets all the advertised specs and performs as it should, both parties move forward to complete the SafeCommerce agreement, at which time the agreed upon amounts are disbursed as per the terms in the smart contract.
+
 After checking the camera Bob signs the payment transaction with his private key at which point Kathy is notified and will have to do her part and sign.
+
 Kathy then signs the transaction herself. Since both parties have signed, funds are immediately unlocked. Kathy receives her 5 ETH of escrow + the price of the camera she just sold (5 ETH) from Bob’s account. Bob receives his camera and 5 ETH is deducted from his account. Simultaneously the fee of 1% is now deducted and released from both accounts to SafeCommerce. (0.05 ETH x 2 = 0.1 ETH). The remaining 6% (0.3 ETH) stays in both customer’s respective accounts to build up their future reserve and reputation in the SafeCommerce system.
 TODO:  Add diagram to describe the above transactions.
-Reputation Scoring (Rating) system:
+
+### Reputation Scoring (Rating) system:
 
 In the above example, the 6% of the Declared Value (0.3 ETH) that was deposited by the participants, remains in the SafeCommerce platform in the participant’s account as a future reserve balance. This reserve balance is a critical component for building a reputation score for the account holder. The score is calculated as follows:
  
