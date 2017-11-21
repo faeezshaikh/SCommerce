@@ -61,13 +61,11 @@ The number of claims made by the account holder against his/her SafeCommerce acc
 Score
 A numeric value that translates into a reputation score.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| SCTS		| The number of blockchain transactions
- the user has registered with SafeCommerce under his/her SafeCommerce primary account.
- | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables        | Are           |
+| ------------- |:-------------:|
+| SCTS		| The number of blockchain transactions the user has registered with SafeCommerce under his/her SafeCommerce primary account.| 
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |    
 
 
 		Standalone mode:
