@@ -79,9 +79,9 @@ The following depicts the various transaction scenarios between two participants
 2. She signs in with any of the popular Web Identity Providers (Google, Amazon, Facebook, Github)
 3. Once logged in, she creates a new ‘Agreement’ inside the app.
 4. For creating a new Agreement, Alice has to enter the following details:
-	a. Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
-	b. Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
-	c. Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
+   *Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
+   *Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
+   *Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
 ⋅⋅⋅⋅* Account address (public key) of Bob (the party with which Alice is entering into an agreement). 
  	
 	*The ‘Declared Value’ (the escrow amount)
