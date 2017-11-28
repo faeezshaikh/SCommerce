@@ -1,4 +1,4 @@
-# SCommerce
+# SafeCommerce
 A Blockchain-Based Decentralized Trustless Reputation building Escrow Protocol.
 November 15, 2017
 
